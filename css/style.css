@@ -1,0 +1,12 @@
+		 body{ margin:0; padding:0; background-color: #000; font-family:Georgia, "Times New Roman", Times, serif}
+		.header{ height:auto; width:900px; text-align:center; color:#fff; font-size:15em; margin:0 auto; letter-spacing:-10px;}
+		.content{width:900px; height:1500px; margin:0 auto; position:relative;}
+		.content .text{margin-left:250px; text-align:left; padding:10px; color:#fff; font-size:1.2em;}
+		.content a{color:#fff;}
+		.content a:hover{color:#f3f3f3; text-decoration:underline;}
+		.content #menu{ position:absolute; border:solid 1px #484949; left:10px; margin:10px 0 0 0; width:240px; height:250px; text-align:center; color:#fff; font-size:1.5em;}
+		
+		#scrollBottom{margin:1500px 0 0 0; position:absolute;}
+		
+		.footer{height:100px; text-align:center; color:#fff; font-size:3em;}
+		.italic{font-style:italic;}
